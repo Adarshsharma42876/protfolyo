@@ -6,7 +6,7 @@ import Projects from './Projects/Projects';
 import Contact from './Contact';
 import Review from './Review';
 import Timeline from './Timeline';
-
+import Navbar from './Navbar';
 const Home = ({data}) => {
     
   return (
